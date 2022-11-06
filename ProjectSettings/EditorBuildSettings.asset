@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ProtaMainScene.unity
+    guid: 53a81988f0a03814f858e5ee9aa74f39
+  - enabled: 1
+    path: Assets/Scenes/TheOutlawofSeaStartScene.unity
+    guid: 7bee1a7b5b58fdb47ac04d9acfdf596b
+  - enabled: 1
+    path: Assets/Scenes/TheOutlawofSeaReadyScene.unity
+    guid: 61d1922acdb563343a3b10eb6a9f0122
+  - enabled: 1
+    path: Assets/Scenes/TheOutlawofSeaGameScene.unity
+    guid: 17305349b1dbf4847a91b80c9093fdf6
+  - enabled: 1
+    path: Assets/Scenes/TheOutlawofSeaGameOverScene.unity
+    guid: 85d52ca939010c842b6fcf71a357c57d
+  - enabled: 1
+    path: Assets/Scenes/KingFistMainScene.unity
+    guid: 515ab2266e69357408202d8e681a4daf
+  - enabled: 1
+    path: Assets/Scenes/KingFistTrainingScene.unity
+    guid: 1be65333447baed4b9ebbf391708a4f2
+  - enabled: 1
+    path: Assets/Scenes/KingFistGameScene.unity
+    guid: e8f841593fc16d74ebb67d86cf360277
+  m_configObjects: {}
